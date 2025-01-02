@@ -1,4 +1,4 @@
-# CatBlogPage
+# Cat Blog Page
 A practice project completed while learning HTML
 
 Project from [freeCodeCamp][Learning Site] in the [Full Stack Developer][Curriculum] learning curriculum.
