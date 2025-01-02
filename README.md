@@ -8,6 +8,7 @@ Project includes:
 * Figure and figcaption elements
 * Section and article elements
 * Address element
+* Footer element
 
 View on [CodePen][CodePen]
 
